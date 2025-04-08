@@ -13,7 +13,7 @@ categories: aws legal test-content
 
 ## AWS Promotional Credit Terms & Conditions
 ​
-####  Last Updated: December 16, 2024
+####  Last Updated: Feb 31, 2369
 
 These AWS Promotional Credit Terms and Conditions (these “Terms”) are an agreement between you and Amazon Web Services, Inc. (or its affiliate as noted in Section 13 below) (“AWS,” “your AWS contracting entity,” “us,” “our,” or “we”) and govern your use of any AWS promotional credit (“Promotional Credit”). You must have a valid AWS account to redeem a Promotional Credit code. Capitalized terms used but not defined in these Terms will have the meanings set forth in the AWS Customer Agreement available at http://aws.amazon.com/agreement, or other written agreement with AWS governing your use of AWS services if applicable (the “Agreement”). These Terms apply to all Promotional Credit, regardless of whether you have a valid AWS account when you receive the Promotional Credit. 
 
@@ -51,6 +51,11 @@ These AWS Promotional Credit Terms and Conditions (these “Terms”) are an agr
 
 13. Notwithstanding anything to the contrary in these Terms, if you redeem a Promotional Credit code or otherwise use Promotional Credit on an AWS account with an affiliate of Amazon Web Services, Inc. as your AWS contracting entity under your Agreement, the Promotional Credit will be deemed to be offered by that affiliate and references to “AWS,” “your AWS contracting entity,” “us,” “our,” and “we” will be references to that affiliate
 
----
+14. **Confidentiality of Service Information**  
+You agree to keep confidential any information or data related to the Service Offerings that you may discover, develop, or learn through your use of those services. This includes, but is not limited to, insights about the security of the services and any potential improvements or suggestions you identify.
 
-**Source:** [https://aws.amazon.com/awscredits/](https://aws.amazon.com/awscredits/)
+15. **Modifications to Terms**  
+We reserve the right to update these Terms at any time. Changes may be communicated by posting a revised version on the AWS website or by emailing you at the address provided in your application for Promotional Credit. The updated Terms take effect upon posting or as specified in the notification. Your continued use of Promotional Credit after such changes indicates your acceptance of the revised Terms.
+
+16. **Use of Promotional Credit with AWS Affiliates**  
+If you redeem a Promotional Credit code or use Promotional Credit on an AWS account where an affiliate of Amazon Web Services, Inc. is your contracting entity, that affiliate is considered the provider of the Promotional Credit. In such cases, all references to "AWS," "we," "our," or "your AWS contracting entity" in these Terms refer to that affiliate.

@@ -64,15 +64,7 @@ If, as of the time of a change of the AWS Contracting Party responsible for your
 
 1.17. Payment Currency
 
-1.17.1 AWS provides a Service that enables payment in certain currencies (“Payment Currency”) other than United States dollars when you purchase certain Services from AWS (the “Currency Service”). When you purchase Services in certain countries outside of the United States, we may require you, because of currency controls or other factors, to use the Currency Service. When using the Currency Service you are not tendering payment in one currency and receiving from us another currency.
-
-1.17.2 When you use the Currency Service, Service fees and charges will automatically be invoiced in the Payment Currency. You must pay invoices in the currency specified on each invoice, but, for credit card or debit card purchases, you may only make payments in currencies supported by the issuer of your card. If the issuer of your credit card or debit card does not support the required Payment Currency, you must use a different payment method that does support paying in the Payment Currency.
-
-1.17.3 Our fees and charges for your use of the Currency Service, if any, are included in the exchange rate applied to your invoice (the “Applicable Exchange Rate”). Third-parties, such as your bank, credit card issuer, debit card issuer, or card network, may charge you additional fees. The Applicable Exchange Rate is determined at the time your invoice is generated and, for invoices covering usage of Services over a period of time, will apply to all usage and Service charges listed on that invoice.
-
-1.17.4 All refunds processed against an invoice will be provided in the currency in which the invoice was generated and reflected as a credit memo or a payment in your Payment Currency.
-
-1.17.5 You agree that by using the Currency Service, information related to your payment, including your name and address, may be used by our banking partners to process your payments in jurisdictions other than the United States.
+AWS offers a Currency Service that allows payment in select non-U.S. currencies (“Payment Currency”) when purchasing certain Services. In some countries, use of this Currency Service may be required due to currency regulations or other considerations. When using the Currency Service, you are not exchanging one currency for another; instead, Service fees will be invoiced directly in the specified Payment Currency. You must pay in the currency listed on the invoice, and for credit or debit card payments, the card issuer must support that currency—otherwise, an alternative payment method is required. Any fees related to the Currency Service, if applicable, are included in the exchange rate shown on your invoice (the “Applicable Exchange Rate”), which is set when the invoice is generated. Note that additional charges from banks, card issuers, or networks may apply. Refunds are issued in the same currency used on the original invoice and will appear as a credit memo or payment in that currency. By using the Currency Service, you agree that your payment-related details, including your name and address, may be shared with AWS’s banking partners for processing payments in jurisdictions outside the United States.
 
 1.18. By accessing and using AWS Content or the Services, you agree to the terms of the Intellectual Property License.
 
@@ -114,13 +106,9 @@ If, as of the time of a change of the AWS Contracting Party responsible for your
 
 2.2. You must comply with all terms related to any Beta Service or Beta Region as posted on the AWS Site or otherwise made available to you. AWS may add or modify terms, including lowering or raising any usage limits, related to access to or use of any Beta Services or Beta Regions at any time. AWS may add, modify, or remove functionality, features, documentation, or other related aspects of any Beta Service or Beta Region at any time and these aspects may be different from any generally available version of the applicable Beta Service or Beta Region. Service Level Agreements do not apply to Beta Services or Beta Regions.
 
-2.3. You may provide AWS with information relating to your access, use, testing, or evaluation of Beta Services or Beta Regions, including observations or information regarding the performance, features, and functionality of Beta Services or Beta Regions (“Test Observations”). AWS will own and may use and evaluate all Test Observations for its own purposes. You will not use any Test Observations except for your internal evaluation purposes of any Beta Service or Beta Region.
+2.3. AWS may suspend or terminate your access to or use of any Beta Service or Beta Region at any time. Your access to and use of each Beta Service and Beta Region will automatically terminate upon the release of a generally available version of the applicable Beta Service or Beta Region or upon notice of termination by AWS. Unless otherwise communicated to You, any Beta Service or Beta Region made available to You is provided for evaluation purposes and should not be used for processing sensitive data. Notwithstanding anything to the contrary in the Agreement, after suspension or termination of your access to or use of any Beta Service or Beta Region for any reason, (a) you will not have any further right to access or use the applicable Beta Service or Beta Region, and (b) Your Content used in the applicable Beta Service or Beta Region may be deleted or inaccessible and Your Content may not be migrated over to a generally available version of the applicable Beta Service or Beta Region.Test Observations, Suggestions concerning a Beta Service or Beta Region, and any other information about or involving (including the existence of) any Beta Service or Beta Region are considered AWS Confidential Information.
 
-2.4. AWS may suspend or terminate your access to or use of any Beta Service or Beta Region at any time. Your access to and use of each Beta Service and Beta Region will automatically terminate upon the release of a generally available version of the applicable Beta Service or Beta Region or upon notice of termination by AWS. Unless otherwise communicated to You, any Beta Service or Beta Region made available to You is provided for evaluation purposes and should not be used for processing sensitive data. Notwithstanding anything to the contrary in the Agreement, after suspension or termination of your access to or use of any Beta Service or Beta Region for any reason, (a) you will not have any further right to access or use the applicable Beta Service or Beta Region, and (b) Your Content used in the applicable Beta Service or Beta Region may be deleted or inaccessible and Your Content may not be migrated over to a generally available version of the applicable Beta Service or Beta Region.
-
-2.5. Test Observations, Suggestions concerning a Beta Service or Beta Region, and any other information about or involving (including the existence of) any Beta Service or Beta Region are considered AWS Confidential Information.
-
-2.6. WITHOUT LIMITING ANY DISCLAIMERS IN THE AGREEMENT OR THE SERVICE TERMS, BETA SERVICES AND BETA REGIONS ARE NOT READY FOR GENERAL COMMERCIAL RELEASE AND MAY CONTAIN BUGS, ERRORS, DEFECTS, OR HARMFUL COMPONENTS. ACCORDINGLY, AND NOTWITHSTANDING ANYTHING TO THE CONTRARY IN THE AGREEMENT OR THESE SERVICES TERMS, AWS IS PROVIDING BETA SERVICES AND BETA REGIONS TO YOU “AS IS.” AWS AND ITS AFFILIATES AND LICENSORS MAKE NO REPRESENTATIONS OR WARRANTIES OF ANY KIND, WHETHER EXPRESS, IMPLIED, STATUTORY, OR OTHERWISE REGARDING BETA SERVICES AND BETA REGIONS, INCLUDING ANY WARRANTY THAT THE BETA SERVICES AND BETA REGIONS WILL BECOME GENERALLY AVAILABLE, BE UNINTERRUPTED, ERROR FREE, OR FREE OF HARMFUL COMPONENTS, OR THAT ANY CONTENT, INCLUDING YOUR CONTENT, WILL BE SECURE OR NOT OTHERWISE LOST OR DAMAGED. EXCEPT TO THE EXTENT PROHIBITED BY LAW, AWS AND ITS AFFILIATES AND LICENSORS DISCLAIM ALL WARRANTIES, INCLUDING ANY IMPLIED WARRANTIES OF MERCHANTABILITY, SATISFACTORY QUALITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, OR QUIET ENJOYMENT, AND ANY WARRANTIES ARISING OUT OF ANY COURSE OF DEALING OR USAGE OF TRADE. AWS’S AND ITS AFFILIATES’ AND LICENSORS’ AGGREGATE LIABILITY FOR ANY BETA SERVICES AND BETA REGIONS WILL BE LIMITED TO THE AMOUNT YOU ACTUALLY PAY US UNDER THIS AGREEMENT FOR THE BETA SERVICES OR BETA REGIONS THAT GAVE RISE TO THE CLAIM DURING THE 12 MONTHS PRECEDING THE CLAIM.
+2.4. WITHOUT LIMITING ANY DISCLAIMERS IN THE AGREEMENT OR THE SERVICE TERMS, BETA SERVICES AND BETA REGIONS ARE NOT READY FOR GENERAL COMMERCIAL RELEASE AND MAY CONTAIN BUGS, ERRORS, DEFECTS, OR HARMFUL COMPONENTS. ACCORDINGLY, AND NOTWITHSTANDING ANYTHING TO THE CONTRARY IN THE AGREEMENT OR THESE SERVICES TERMS, AWS IS PROVIDING BETA SERVICES AND BETA REGIONS TO YOU “AS IS.” AWS AND ITS AFFILIATES AND LICENSORS MAKE NO REPRESENTATIONS OR WARRANTIES OF ANY KIND, WHETHER EXPRESS, IMPLIED, STATUTORY, OR OTHERWISE REGARDING BETA SERVICES AND BETA REGIONS, INCLUDING ANY WARRANTY THAT THE BETA SERVICES AND BETA REGIONS WILL BECOME GENERALLY AVAILABLE, BE UNINTERRUPTED, ERROR FREE, OR FREE OF HARMFUL COMPONENTS, OR THAT ANY CONTENT, INCLUDING YOUR CONTENT, WILL BE SECURE OR NOT OTHERWISE LOST OR DAMAGED. EXCEPT TO THE EXTENT PROHIBITED BY LAW, AWS AND ITS AFFILIATES AND LICENSORS DISCLAIM ALL WARRANTIES, INCLUDING ANY IMPLIED WARRANTIES OF MERCHANTABILITY, SATISFACTORY QUALITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, OR QUIET ENJOYMENT, AND ANY WARRANTIES ARISING OUT OF ANY COURSE OF DEALING OR USAGE OF TRADE. AWS’S AND ITS AFFILIATES’ AND LICENSORS’ AGGREGATE LIABILITY FOR ANY BETA SERVICES AND BETA REGIONS WILL BE LIMITED TO THE AMOUNT YOU ACTUALLY PAY US UNDER THIS AGREEMENT FOR THE BETA SERVICES OR BETA REGIONS THAT GAVE RISE TO THE CLAIM DURING THE 12 MONTHS PRECEDING THE CLAIM.
 
 3. Amazon CloudFront
 
@@ -200,11 +188,7 @@ Your use of Qualcomm Technologies Inc.’s software is subject to the terms and 
 
 5.6.6. For each Seller, we will collect the necessary data and tax forms to enable compliance with applicable tax laws. For example, for U.S.-based Sellers, we will collect and retain Seller name and address, and may collect the tax identification number and other data as needed to comply with Form 1099K reporting requirements; for non-U.S.-based Sellers, we will collect and retain a Form W-8BEN tax form (which includes name, address, and a signature) as proof that you are exempt from Form 1099K reporting. For each Buyer, we will collect and retain the Buyer’s name and address. Buyers and Sellers will not know the name of the other party to the Transaction until the Transaction is completed. Upon completion of the Transaction, we will share the applicable Buyer’s city, state, and zip with the Seller so that the Seller can calculate the appropriate tax (if any) to remit to the appropriate government entity. We will share the Seller’s legal name on the Buyer’s invoice. Buyers and Sellers may not use information about the Transaction or about the other party gained in connection with a Transaction (“Transaction Information”) for any purpose that is not related to the Transaction. For example, you may not, directly or indirectly: (1) disclose any Transaction Information to any third party, except as necessary for you to perform your tax obligations or other obligations under these Service Terms and only if you ensure that every recipient uses the information only for that purpose and complies with these restrictions; (2) use any Transaction Information for any marketing or promotional purposes whatsoever; (3) use any Transaction Information in any way inconsistent with applicable law; (4) contact a party to influence them to make an alternative sale or purchase; or (5) target communications of any kind on the basis of the intended recipient being an RI Marketplace Buyer or Seller.
 
-5.7. Amazon EC2 enables you to provision Amazon EC2 instances using your Microsoft Software and Microsoft Licenses (the “BYOL Program”). Unless otherwise specified in your agreement(s) with Microsoft, you can participate in the BYOL Program only if you comply with the requirements here, and you (a) use Dedicated Instances or Dedicated Hosts; and (b) launch from Virtual Machines (VMs) sourced from software binaries provided by you.
-
-You must be eligible to use the BYOL Program for the applicable Microsoft Software under your agreements with Microsoft. You are solely responsible for obtaining all required licenses and for complying with all applicable Microsoft licensing requirements, including the Product Use Rights/Product Terms. By using the Microsoft Software under the BYOL Program, you agree to Microsoft's End User License Agreement.
-
-You agree that you have determined that your use of the BYOL Program will comply with the applicable Microsoft licensing requirements. Usage of the Services in violation of your agreement(s) with Microsoft is not authorized or permitted.
+5.7. Amazon EC2 enables you to provision Amazon EC2 instances using your Microsoft Software and Microsoft Licenses (the “BYOL Program”). Unless otherwise specified in your agreement(s) with Microsoft, you can participate in the BYOL Program only if you comply with the requirements here, and you (a) use Dedicated Instances or Dedicated Hosts; and (b) launch from Virtual Machines (VMs) sourced from software binaries provided by you. You must be eligible to use the BYOL Program for the applicable Microsoft Software under your agreements with Microsoft. You are solely responsible for obtaining all required licenses and for complying with all applicable Microsoft licensing requirements, including the Product Use Rights/Product Terms. By using the Microsoft Software under the BYOL Program, you agree to Microsoft's End User License Agreement. You agree that you have determined that your use of the BYOL Program will comply with the applicable Microsoft licensing requirements. Usage of the Services in violation of your agreement(s) with Microsoft is not authorized or permitted.
 
 5.8. As part of using Amazon EC2, you agree that your Amazon EC2 resources may be terminated or replaced due to failure, retirement or other AWS requirements. THE USE OF AMAZON EC2 DOES NOT GRANT YOU, AND YOU HEREBY WAIVE, ANY RIGHT OF PHYSICAL ACCESS TO, OR PHYSICAL POSSESSION OF, ANY AWS SERVERS, EQUIPMENT, REAL OR PERSONAL PROPERTY, OR OTHER ASSETS.
 
@@ -224,13 +208,7 @@ If during the previous 6 months you have incurred no fees for Amazon SimpleDB an
 
 8.3. Amazon CloudWatch Network Monitoring
 
- 
-
-8.3.1. “Amazon CloudWatch Network Monitoring” includes Internet Monitor, Network Flow Monitor, and Network Synthetic Monitor.
-
- 
-
-8.3.2. This Section applies to data provided by monitors in your AWS account and in third party AWS accounts. You may not, and may not allow any third party to, use Amazon CloudWatch Network Monitoring, or any data or information made available through Amazon CloudWatch Network Monitoring, to, directly or indirectly, develop, improve, or offer a similar or competing product or service. You may not resell or redistribute Amazon CloudWatch Network Monitoring or any metrics provided by Amazon CloudWatch Network Monitoring unless you have been authorized as an AWS reseller, you add material value as part of the resale or redistribution, you restrict recipients from further reselling or redistributing to any additional entities, and for each monitor, you do not resell or redistribute metrics provided by the monitor to more than one entity. You may distribute metrics provided by your monitor(s) to third party network observability services solely for your personal use. 
+“Amazon CloudWatch Network Monitoring” includes Internet Monitor, Network Flow Monitor, and Network Synthetic Monitor. This Section applies to data provided by monitors in your AWS account and in third party AWS accounts. You may not, and may not allow any third party to, use Amazon CloudWatch Network Monitoring, or any data or information made available through Amazon CloudWatch Network Monitoring, to, directly or indirectly, develop, improve, or offer a similar or competing product or service. You may not resell or redistribute Amazon CloudWatch Network Monitoring or any metrics provided by Amazon CloudWatch Network Monitoring unless you have been authorized as an AWS reseller, you add material value as part of the resale or redistribution, you restrict recipients from further reselling or redistributing to any additional entities, and for each monitor, you do not resell or redistribute metrics provided by the monitor to more than one entity. You may distribute metrics provided by your monitor(s) to third party network observability services solely for your personal use. 
 
 9. AWS Snowball and AWS Snowcone
 
@@ -410,64 +388,27 @@ The Amazon DynamoDB Reserved Capacity program allows you to purchase reserved th
 
 20.1.5. If you are a buyer on AWS Marketplace, you are responsible for collecting tax documentation, withholding as required, and filing all tax forms with your applicable tax authorities for your AWS Marketplace transactions. If you are a buyer making a payment of U.S. source services or royalty income to a non-U.S. third party provider, all such collection, withholding, and filing obligations are yours as we do not act as a Withholding Agent as defined by U.S. Treas. Reg. 1.1441-7(a). In certain countries, AWS will collect fees and taxes on behalf of the seller and remit the taxes and subscription payment to the seller.
 
-20.1.6. For purposes of facilitating your purchases from third parties on AWS Marketplace, the applicable AWS Contracting Party under the Agreement is set out in the table below. Notwithstanding the foregoing, Amazon Web Services, Inc. continues to be the invoicing party for third party products that are resold by Amazon Web Services, Inc. on AWS Marketplace.
+#####  20.1.6.  AWS Marketplace Contracting Parties
 
-Account Country
+For the purpose of facilitating your purchases from third parties on AWS Marketplace, the applicable **AWS Contracting Party** under the Agreement is outlined in the table below.  
 
-AWS Contracting Party
+> **Note:** Amazon Web Services, Inc. remains the invoicing party for third-party products **resold by AWS** on the AWS Marketplace.
 
-Facsimile
+---
 
-Mailing Address
+#### 📍 Contracting Entities by Country
 
-Australia
+| Account Country | Effective Date | AWS Contracting Party | Facsimile | Mailing Address |
+|------------------|----------------|-------------------------|------------|------------------|
+| **Australia** | 1 October 2022 | Amazon Web Services Australia Pty Ltd (ABN: 63 605 345 891) | N/A | Level 37, 2-26 Park Street, Sydney, NSW, 2000, Australia |
+| **Japan** | 1 October 2022 | Amazon Web Services Japan G.K. | N/A | 1-1, Kamiosaki 3-chome, Shinagawa-ku, Tokyo, 141-0021, Japan |
+| **South Korea** | 1 April 2025 | Amazon Web Services Korea LLC | N/A | L12, East Tower, 231 Teheran-ro, Gangnam-gu, Seoul, 06142, Republic of Korea |
+| **Countries in EMEA** (excluding South Africa and Turkey) [^1] | 1 January 2022 | Amazon Web Services EMEA SARL | +352 2789 0057 | 38 Avenue John F. Kennedy, L-1855, Luxembourg |
+| **All Other Countries** | N/A | Amazon Web Services, Inc. | +1 206-266-7010 | 410 Terry Avenue North, Seattle, WA 98109-5210, USA |
 
-(w.e.f. 1 October 2022)
+---
 
-Amazon Web Services Australia Pty Ltd (ABN: 63 605 345 891)
-
-N/A
-
-Level 37, 2-26 Park Street, Sydney, NSW, 2000, Australia
-
-Japan
-
-(w.e.f. 1 October 2022)
-
-Amazon Web Services Japan G.K.
-
-N/A
-
-1-1, Kamiosaki 3-chome, Shinagawa-ku, Tokyo, 141-0021, Japan
-
-South Korea
-
-(w.e.f. 1 April 2025)
-
-Amazon Web Services Korea LLC
-
-N/A	
-L12, East tower, 231, Teheran-ro, Gangnam-gu, Seoul, 06142, Republic of Korea
-
-The countries within Europe, the Middle East, and Africa (except South Africa and Turkey) listed at1: https://aws.amazon.com/legal/aws-emea-countries/
-
-(w.e.f. 1 January 2022)
-
-Amazon Web Services EMEA SARL
-
-352 2789 0057
-
-38 Avenue John F. Kennedy, L-1855, Luxembourg
-
-Any other country that is not listed in this table above
-
-Amazon Web Services, Inc.
-
-206-266-7010
-
-410 Terry Avenue North,
-Seattle, WA 98109-5210
-U.S.A.
+[^1]: List of EMEA countries: [https://aws.amazon.com/legal/aws-emea-countries/](https://aws.amazon.com/legal/aws-emea-countries/)
 
 1 Excludes professional services, for which the applicable AWS Contracting Party is Amazon Web Services, Inc. Additionally, this applies only if your purchase on AWS Marketplace is from a third party that has been onboarded to Amazon Web Services EMEA SARL. Otherwise, Amazon Web Services, Inc. is the applicable AWS Contracting Party.
 
@@ -1597,7 +1538,3 @@ h. Your use of Adobe After Effects is subject to the terms and conditions of the
 104.2. AWS and its affiliates will not be liable to you for any damages arising from (a) AWS’s actions taken pursuant to any instructions, requests, or pre-authorizations that you provide or approve, (b) you not following an instruction or recommendation from AWS, (c) your delay or withholding of approval for AWS to take a requested action, or (d) any change by you to your AWS Security Incident Response Membership Account (as defined in the AWS Security Incident Response user guides posted on the AWS Site).
 
 104.3. By enabling alert triaging you agree to grant AWS Security Incident Response permissions to access Amazon GuardDuty and AWS Security Hub to ingest alerts and create suppression rules on your behalf. 
- 
----
-
-**Source:** [https://aws.amazon.com/service-terms/](https://aws.amazon.com/service-terms/)
