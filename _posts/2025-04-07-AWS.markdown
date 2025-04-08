@@ -1,0 +1,58 @@
+---
+layout: post
+title:  "AWS Service Terms Overview"
+date:   2025-04-07 09:44:03 -0400
+categories: aws legal test-content
+---
+
+> ⚠️ **Disclaimer:** This page reproduces content from the [official AWS Service Terms](https://aws.amazon.com/service-terms/) strictly for **non-commercial, testing purpose** of content change detection tools like Visualping, Pingdom, etc.  
+> We do not claim ownership of the content, and all rights remain with Amazon Web Services.
+
+---
+
+## AWS Service Terms
+
+**Last Updated:** March 31, 2025
+
+### 1. Universal Service Terms (Applicable to All Services)
+
+The Service Terms below govern your use of the Services. Capitalized terms used in these Service Terms but not defined below are defined in the [AWS Customer Agreement](https://aws.amazon.com/agreement/) or other agreement with us governing your use of the Services (the “Agreement”). For purposes of these Service Terms, “Your Content” includes any “Company Content” and any “Customer Content,” and “AWS Content” includes “Amazon Properties.”
+
+1.1. You may not transfer outside the Services any software (including related documentation) you obtain from us or third-party licensors in connection with the Services without specific authorization to do so.
+
+1.2. You must comply with current technical documentation applicable to the Services (including applicable user, admin, and developer guides) posted on the AWS Site at [https://docs.aws.amazon.com/index.html](https://docs.aws.amazon.com/index.html) (and any successor or related locations designated by us).
+
+1.3. You will provide information or other materials related to Your Content (including copies of any client-side applications) as reasonably requested by us to verify your compliance with the Agreement. You will reasonably cooperate with us to identify the source of any problem with the Services that we reasonably believe may be attributable to Your Content or any end-user materials that you control.
+
+1.4. In connection with your use of the Services, you are responsible for maintaining licenses and adhering to the license terms of any software you run. If we reasonably believe any of Your Content violates the law, infringes or misappropriates the rights of any third party, or otherwise violates a material term of the Agreement (including the Service Terms, or the Acceptable Use Policy) (“Prohibited Content”), we will notify you of the Prohibited Content and may request that such content be removed from the Services or access to it be disabled. If you do not remove or disable access to the Prohibited Content within 2 business days of our notice, we may remove or disable access to the Prohibited Content or suspend the Services to the extent we are not able to remove or disable access to the Prohibited Content. Notwithstanding the foregoing, we may remove or disable access to any Prohibited Content without prior notice in connection with illegal content, where the content may disrupt or threaten the Services or in accordance with applicable law or any judicial, regulatory, or other governmental order or request. In the event that we remove Your Content without prior notice, we will provide prompt notice to you unless prohibited by law. We terminate the accounts of repeat infringers in appropriate circumstances.
+
+1.5. You will ensure that all information you provide to us via the AWS Site (e.g., information provided in connection with your registration for the Services, requests for increased usage limits) is accurate, complete, and not misleading.
+
+1.6. From time to time, we may apply upgrades, patches, bug fixes, or other maintenance to the Services and AWS Content (“Maintenance”). We agree to use reasonable efforts to provide you with prior notice of any scheduled Maintenance (except for emergency Maintenance), and you agree to use reasonable efforts to comply with any Maintenance requirements that we notify you about.
+
+1.7. If your Agreement does not include a provision on AWS Confidential Information, and you and AWS do not have an effective non-disclosure agreement in place, then you agree that you will not disclose AWS Confidential Information (as defined in the AWS Customer Agreement), except as required by law.
+
+1.8. You may perform benchmarks or comparative tests or evaluations (each, a “Benchmark”) of the Services. If you perform or disclose, or direct or permit any third party to perform or disclose, any Benchmark of any of the Services, you (i) will include in any disclosure, and will disclose to us, all information necessary to replicate such Benchmark, and (ii) agree that we may perform and disclose the results of Benchmarks of your products or services, irrespective of any restrictions on Benchmarks in the terms governing your products or services.
+
+1.9. Only the applicable AWS Contracting Party (as defined in the AWS Customer Agreement) will have obligations with respect to each AWS account, and no other AWS Contracting Party has any obligation with respect to such account. The AWS Contracting Party for an account may change as described in the Agreement, and the new AWS Contracting Party will be responsible for issuing any invoices to you after such change, including monthly invoices. If, as of the time of a change of the AWS Contracting Party responsible for your account, you have made an up-front payment for any Services under such account, then the AWS Contracting Party you paid such up-front payment to may remain the AWS Contracting Party for the applicable account only with respect to the Services related to such up-front payment.
+
+1.10. When you use a Service, you may be able to use or be required to use one or more other Services (each, an “Associated Service”), and when you use an Associated Service, you are subject to the terms and fees that apply to that Associated Service.
+
+1.11. If you process the personal data of End Users or other identifiable individuals in your use of a Service, you are responsible for providing legally adequate privacy notices and obtaining necessary consents for the processing of such data. You represent to us that you have provided all necessary privacy notices and obtained all necessary consents. You are responsible for processing such data in accordance with applicable law.
+
+1.12. If you have been charged for a Service for a period when that Service was unavailable (as defined in the applicable Service Level Agreement for each Service), you may request a Service credit equal to any charged amounts for such period.
+
+1.13. If you are a customer that is subject to the French Politique générale de sécurité des systèmes d’information de santé (PGSSI-S), you agree that your use of the Services complies with the PGSSI-S.
+
+1.14. Data Protection.
+
+1.14.1. These Service Terms incorporate the AWS Data Processing Addendum (“DPA”), when you use AWS Services to process Customer Data (as defined in the DPA).
+
+1.14.2. These Service Terms incorporate the AWS Supplementary Addendum to the DPA, when you use AWS Services to process Customer Data (as defined in the DPA).
+
+1.14.3. These Service Terms incorporate the Standard Contractual Clauses between controllers and processors (“Controller-to-Processor Clauses”) and the Standard Contractual Clauses between processors (“Processor-to-Processor Clauses”) approved by the European Commission Implementing Decision (EU) 2021/914 of 4 June 2021 (the “SCCs”). The SCCs will only apply when: (i) the GDPR applies to your use of the AWS Services to process Customer Data; and (ii) Customer Data is transferred either
+::contentReference[oaicite:0]{index=0}
+ 
+---
+
+**Source:** [https://aws.amazon.com/service-terms/](https://aws.amazon.com/service-terms/)
