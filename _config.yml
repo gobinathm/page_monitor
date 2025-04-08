@@ -22,8 +22,8 @@ title: Privacy Policy Tracker
 email: 450222+gobinathm@users.noreply.github.com
 description: >- # this means to ignore newlines until "baseurl:"
   Disclaimer: This is a test website intended solely for evaluating automated content change detection tools (e.g., Visualping, Pingdom). All content is for testing purposes only and does not represent actual legal policies or services.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/page_monitor" # the subpath of your site, e.g. /blog
+url: "https://gobinathm.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  jekyll
 

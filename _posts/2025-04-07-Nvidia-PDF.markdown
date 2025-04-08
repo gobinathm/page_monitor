@@ -14,4 +14,4 @@ categories: aws legal test-content
 <br><br>
 <br><br>
 <br><br>
-Download the [PDF version](/assets/EULA.pdf)
+Download the [View EULA PDF]({{ site.baseurl }}/assets/EULA.pdf)
