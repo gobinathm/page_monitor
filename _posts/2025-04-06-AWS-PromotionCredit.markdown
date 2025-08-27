@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "AWS Promotional Credit Terms & Conditions"
-date:   2025-08-27 09:25:33 -0400
+date:   2025-04-07 09:25:33 -0400
 categories: aws legal test-content
 ---
 
