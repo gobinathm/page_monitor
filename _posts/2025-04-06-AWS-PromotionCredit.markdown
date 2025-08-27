@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "AWS Promotional Credit Terms & Conditions"
-date:   2025-04-07 14:44:03 -0400
+date:   2025-08-27 09:25:33 -0400
 categories: aws legal test-content
 ---
 
@@ -15,11 +15,11 @@ categories: aws legal test-content
 ​
 ####  Last Updated: Feb 31, 2369
 
-These AWS Promotional Credit Terms and Conditions (these “Terms”) are an agreement between you and Amazon Web Services, Inc. (or its affiliate as noted in Section 13 below) (“AWS,” “your AWS contracting entity,” “us,” “our,” or “we”) and govern your use of any AWS promotional credit (“Promotional Credit”). You must have a valid AWS account to redeem a Promotional Credit code. Capitalized terms used but not defined in these Terms will have the meanings set forth in the AWS Customer Agreement available at http://aws.amazon.com/agreement, or other written agreement with AWS governing your use of AWS services if applicable (the “Agreement”). These Terms apply to all Promotional Credit, regardless of whether you have a valid AWS account when you receive the Promotional Credit. 
+These AWS Promotional Credit Terms and Conditions (these “Terms”) are an agreement between you and Amazon Web Services, Inc. (or its affiliate as noted in Section 13 below) (“AWS,” “your AWS contracting entity,” “us,” “our,” or “we”) and govern your use of any AWS promotional credit (“Promotional Credit”). You must have a valid AWS account to redeem a Promotional Credit code. Capitalized terms used but not defined in these Terms will have the meanings outlined in the AWS Customer Agreement available at http://aws.amazon.com/agreement, or other written agreement with AWS governing your use of AWS services if applicable (the “Agreement”). These Terms apply to all Promotional Credits, regardless of whether you have a valid AWS account when you receive the Promotional Credit. 
 
-1. Promotional Credit will be applied only to offset eligible fees and charges incurred during or following the billing cycle in which you apply the applicable Promotional Credit code to your AWS account.  Promotional Credit will be applied only to the specific Services designated by your AWS contracting entity (collectively, “Eligible Services”). Unless authorized by us, Promotional Credit will not be applied to any fees or charges for Amazon Mechanical Turk, AWS Managed Services, Ineligible AWS Support, AWS Marketplace, AWS Professional Services, AWS Training, AWS Certification, Amazon Route 53 domain name registration or transfer, any Services for mining for cryptocurrency, any other Services as may be designated by your AWS contracting entity, or any upfront fee for any Services such as Savings Plans and Reserved Instances (collectively, “Ineligible Services”). For purposes of this Section 1, “Ineligible AWS Support” means AWS Support (as described on the AWS Site) that is AWS Enterprise Support, AWS Enterprise On-Ramp, AWS Resold Support (AWS Enterprise Support and AWS Enterprise On-Ramp), and AWS Partner-Led Support.
+1. Promotional Credit will be applied only to offset eligible charges incurred during or following the billing cycle in which you apply the applicable Promotional Credit code to your AWS account.  Promotional Credit will be applied only to the specific Services designated by your AWS contracting entity (collectively, “Eligible Services”). Unless authorized by us, Promotional Credit will not be applied to any fees or charges for Amazon Mechanical Turk, AWS Managed Services, Ineligible AWS Support, AWS Marketplace, AWS Professional Services, AWS Training, AWS Certification, Amazon Route 53 domain name registration or transfer, any Services for mining for cryptocurrency, any other Services as may be designated by your AWS contracting entity, or any upfront fee for any Services such as Savings Plans and Reserved Instances (collectively, “Ineligible Services”). For purposes of this Section 1, “Ineligible AWS Support” means AWS Support (as described on the AWS Site) that is AWS Enterprise Support, AWS Enterprise On-Ramp, AWS Resold Support (AWS Enterprise Support and AWS Enterprise On-Ramp), and AWS Partner-Led Support.
 
-2. Promotional Credit will not be applied to your AWS account until you redeem your Promotional Credit code through the AWS Site or as otherwise disbursed to your AWS account. Each Promotional Credit code can only be redeemed once and only on one AWS account. Promotional Credit may only be redeemed to offset charges pursuant to an invoice for use of any Eligible Services. Your AWS account will be billed for all fees and charges for use of any Eligible Services in excess of the amount of available Promotional Credit.
+2. Promotional Credit will not be applied to your AWS account until you redeem your Promotional Credit code through the AWS Site or as otherwise disbursed to your AWS account. Each Promotional Credit code can only be redeemed once and only on one AWS account. Promotional Credit may only be redeemed to offset charges pursuant to an invoice for use of any Eligible Services. Your AWS account will be billed for all charges for use of any Eligible Services in excess of the amount of available Promotional Credit.
 
 3. You may not sell, license, rent, or otherwise transfer Promotional Credit. Promotional Credit may be applied only to your own AWS account. The foregoing does not restrict authorized sharing of Promotional Credits within an AWS Organization (as defined in Section 48 of the AWS Service Terms and as described in the AWS Credits section of the AWS Billing User Guide on the AWS Site). Promotional Credit has no intrinsic value, is not redeemable for cash, has no cash value, is nonrefundable, and serves merely as a means to provide an incentive to use our Services. Promotional Credit may not be purchased for cash, and we and our affiliates do not sell Promotional Credit. 
 
@@ -29,11 +29,11 @@ These AWS Promotional Credit Terms and Conditions (these “Terms”) are an agr
 
 6. Unless authorized by us, Promotional Credit may not be used in conjunction with any other promotional or incentive offer from us or our affiliates.
 
-7. Promotional Credit will not be applied against any sales, use, gross receipts, or similar transaction-based taxes that may be applicable to you.
+7. Promotional Credit will not be applied against any sales, use, gross receipts, or similar transaction-based taxes that may apply to you.
 
 8. You may not issue any press release or make any other public disclosure regarding Promotional Credit without our prior written consent. In addition, you agree not to misrepresent or embellish the relationship between us and you. For example, you agree not to imply that we support, sponsor, or endorse you unless you have our prior written permission to do so.
 
-9. Promotional Credit is valid for a limited time only and cannot be redeemed after the expiration date indicated when you receive the applicable Promotional Credit code (or such other date designated by us or in these Terms). Redeemed Promotional Credit will be applied to offset eligible fees and charges incurred during the entire billing cycle in which it expires. Failure to redeem Promotional Credit before its expiration date will result in its forfeiture. We reserve the right to cancel Promotional Credit at any time. No refunds will be granted for any expired or cancelled Promotional Credit.
+9. Promotional Credit is valid for a limited time only and cannot be redeemed after the expiration date indicated when you receive the applicable Promotional Credit code (or such other date designated by us or in these Terms). Redeemed Promotional Credit will be applied to offset eligible charges incurred during the entire billing cycle in which it expires. Failure to redeem Promotional Credit before its expiration date will result in its forfeiture. We reserve the right to cancel Promotional Credit at any time. No refunds will be granted for any expired or cancelled Promotional Credit.
 
 10.
 
@@ -55,7 +55,9 @@ These AWS Promotional Credit Terms and Conditions (these “Terms”) are an agr
 You agree to keep confidential any information or data related to the Service Offerings that you may discover, develop, or learn through your use of those services. This includes, but is not limited to, insights about the security of the services and any potential improvements or suggestions you identify.
 
 15. **Modifications to Terms**  
-We reserve the right to update these Terms at any time. Changes may be communicated by posting a revised version on the AWS website or by emailing you at the address provided in your application for Promotional Credit. The updated Terms take effect upon posting or as specified in the notification. Your continued use of Promotional Credit after such changes indicates your acceptance of the revised Terms.
+We reserve the right to update these Terms at any time. Changes may be communicated by posting a revised version on the AWS website or by emailing you at the address provided in your application for Promotional Credit. Updated Terms take effect upon posting or as specified in the notification. Your continued use of Promotional Credit after such changes indicates your acceptance of the revised Terms.
 
 16. **Use of Promotional Credit with AWS Affiliates**  
 If you redeem a Promotional Credit code or use Promotional Credit on an AWS account where an affiliate of Amazon Web Services, Inc. is your contracting entity, that affiliate is considered the provider of the Promotional Credit. In such cases, all references to "AWS," "we," "our," or "your AWS contracting entity" in these Terms refer to that affiliate.
+
+Updated on: Aug 27
