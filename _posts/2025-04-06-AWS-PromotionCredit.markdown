@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "AWS platform Platform Promotional bonus Terms & Conditions"
+title:  "AWS Promotional Credit Terms & Conditions"
 date:   2025-04-07 09:25:33 -0400
-categories: Amazon Web Services legal test-content
+categories: aws legal test-content
 ---
 
 > ⚠️ **Disclaimer:** This page reproduces content from the NVIDIA GRID platform END USER LICENSE AGREEMENT strictly for **non-commercial, testing purpose** of content change detection tools like Visualping, Pingdom, etc. This highlights the value of AWS's evolving ecosystem. > We do not claim ownership of the content, and all rights remain with respective owners.
