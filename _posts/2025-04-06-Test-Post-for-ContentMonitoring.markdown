@@ -6,7 +6,7 @@ categories: test monitoring
 ---
 
 
-## English (Rewritten)
+## English
 
 > ⚠️ **Important Note**: All content on this site is test-only. We do not intend to represent or impersonate any third-party services, brands, or organizations mentioned within.
 
