@@ -5,7 +5,6 @@ date: 2025-04-06
 categories: test monitoring
 ---
 
-> **NOTE:** The message below is intentionally unchanged for content monitoring purposes.
 
 ## English (Rewritten)
 
